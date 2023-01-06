@@ -1,0 +1,76 @@
+{
+    "workbench.colorTheme": "Dobri Next -A02- Bunker",
+    "workbench.iconTheme": "material-icon-theme",
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "editor.minimap.enabled": false,
+    "extensions.ignoreRecommendations": true,
+    "editor.tokenColorCustomizations": {
+      "comments": "#4bfb16"
+    },
+    "redhat.telemetry.enabled": false,
+    "tabnine.experimentalAutoImports": true,
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "vs-kubernetes": {
+      "vscode-kubernetes.minikube-path.linux": "/home/oscarllamas6/.local/state/vs-kubernetes/tools/minikube/linux-amd64/minikube",
+      "vscode-kubernetes.helm-path.linux": "/home/oscarllamas6/.local/state/vs-kubernetes/tools/helm/linux-amd64/helm",
+      "vs-kubernetes.minikube-show-information-expiration": "2023-05-21T14:45:36.913Z"
+    },
+    "window.zoomLevel": 2,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontLigatures": false,
+    "terminal.integrated.profiles.windows": {
+      "PowerShell": {
+        "source": "PowerShell",
+        "args": [
+          "-noLogo"
+        ]
+      }
+    },
+    "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
+    "editor.codeActionsOnSave": {},
+    "settingsSync.ignoredExtensions": [
+      "arthurwang.vsc-prolog"
+    ],
+    "prolog.linter.run": "never",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "remote.SSH.remotePlatform": {
+      "ec2-proyecto-sa": "linux",
+      "vm-proyecto-sa": "linux",
+      "g2-odoo": "linux",
+      "proyecto-sa": "linux",
+      "proyecto-sa-f3": "linux"
+    },
+    "workbench.startupEditor": "none",
+    "material-icon-theme.files.associations": {
+      "*.go": "go_gopher"
+  },
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "workbench.colorCustomizations": {
+    "statusBar.background" : "#b5ff65",
+    "statusBar.foreground": "#000000",
+    "statusBar.noFolderBackground" : "#212121",
+    "statusBar.debuggingBackground": "#263238"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "go.testEnvFile": "/home/oscarllamas6/Desktop/Trabajo/ftc-slots-ms/.env.local",
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "go.toolsManagement.autoUpdate": true,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "go.lintTool": "golangci-lint",
+  
+    "go.toolsEnvVars": {
+        "GOOS": "js",
+        "GOARCH": "wasm"
+    },
+
+  "go.lintFlags": [
+    "--fast"
+  ]
+  }

@@ -1,0 +1,28 @@
+{
+    "name":"CS:GO",
+    "restrictionAge":"E10+",
+    "imageURL": "imagen-en-base64",
+    "releaseDate": "01/02/2012",
+    "group": 4,
+    "description":"Counter-Strike: Global Offensive (CS:GO) amplía el juego de acción por equipos del que fue pionera la franquicia cuando salió hace 19 años. CS:GO trae nuevos mapas, personajes, armas y modos de juego, y ofrece versiones actualizadas del contenido clásico de CS (de_dust2, etc.).",
+    "prices": [
+        {
+            "region":"US",
+            "price": 199.99,
+            "discount": 0
+        },
+        {
+            "region":"GT",
+            "price": 124.99,
+            "discount": 0
+        },
+        {
+            "region":"NZ",
+            "price": 99.99,
+            "discount": 0
+        }
+
+    ],
+    "categories": [1,2,4,5,6,6],
+    "developers": [1,2,3,4,5,6]
+}

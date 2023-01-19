@@ -13,11 +13,14 @@ type User struct {
 
 func main() {
 
+	map[string]string
+
+
 	// Estructura que vamos a guardar en un archivo localmente (esto seria s3)
 	// Este struct simula el resultado del query a postgresql
 	userToWrite := User{
-		"oscar",
-		"oscar-rappi-2023",
+		"Vanessa",
+		"oscar-y-Vanessa-se-aman",
 	}
 
 	// Se crea archivo .gob (donde se codificara la structura)

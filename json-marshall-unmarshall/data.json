@@ -1,0 +1,16 @@
+{
+    "users": [
+       {
+          "name": "Oscar",
+          "colegiado": "X1x0x3as"
+       },
+       {
+          "name": "Vanessa",
+          "colegiado": "X1x0x3as"
+       },
+       {
+          "name": "Peter Parker",
+          "colegiado": null
+       }
+    ]
+ }
